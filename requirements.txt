@@ -15,6 +15,7 @@ bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker==1.4
 Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
 brotlipy==0.7.0
+catboost==1.2
 certifi @ file:///croot/certifi_1690232220950/work/certifi
 cffi @ file:///croot/cffi_1670423208954/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
@@ -38,6 +39,7 @@ fonttools==4.25.0
 future==0.18.3
 gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///croot/gitpython_1674662789231/work
+graphviz==0.20.1
 greenlet @ file:///croot/greenlet_1670513226095/work
 gunicorn @ file:///home/builder/ci_310/gunicorn_1640790735087/work
 hyperopt==0.2.7
@@ -98,6 +100,7 @@ pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==9.4.0
 platformdirs @ file:///croot/platformdirs_1692205439124/work
+plotly==5.16.1
 ply==3.11
 prometheus-client @ file:///tmp/abs_d3zeliano1/croots/recipe/prometheus_client_1659455100375/work
 prompt-toolkit @ file:///croot/prompt-toolkit_1672387306916/work
@@ -139,6 +142,7 @@ SQLAlchemy @ file:///tmp/abs_18b3238f-9c23-4182-a392-63af30a93c1er8j_yw60/croots
 sqlparse @ file:///croot/sqlparse_1690901927333/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 tabulate @ file:///opt/conda/conda-bld/tabulate_1657784105888/work
+tenacity==8.2.3
 terminado @ file:///croot/terminado_1671751832461/work
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
 tinycss2 @ file:///croot/tinycss2_1668168815555/work
@@ -155,6 +159,7 @@ webencodings==0.5.1
 websocket-client @ file:///home/builder/ci_310/websocket-client_1640795866898/work
 Werkzeug @ file:///croot/werkzeug_1679489717957/work
 widgetsnbextension @ file:///croot/widgetsnbextension_1679313860248/work
+xgboost==1.7.6
 y-py @ file:///croot/y-py_1683555143488/work
 ypy-websocket @ file:///croot/ypy-websocket_1684171737040/work
 zipp @ file:///croot/zipp_1672387121353/work
